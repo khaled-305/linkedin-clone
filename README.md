@@ -1,5 +1,14 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+### Linkedin Clone 
+-> Authentication: Google OAuth and Next Auth
+-> State Management: Recoil
+-> Frontend: React, Next.js, tailwindcss, Material UI icons, 
+-> Animation: Framer Motion Library
+-> Backend: Node.js (express.js)
+-> Database: MongoDB
+-> Google News Api
+
 ## Getting Started
 
 First, run the development server:
